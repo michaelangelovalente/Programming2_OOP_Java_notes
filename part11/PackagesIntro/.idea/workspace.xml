@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8d3d86a-13b9-4fa2-a163-1011ae0a79e5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/BySuitInValueOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/BySuitInValueOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Card.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/SortBySuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/SortBySuit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Suit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Suit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/A_CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/A_CardTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/B_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/B_HandTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/C_ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/C_ComparatorTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/D_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/D_HandTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/Help.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2DUMhaZQZphYmnteFq6iLHuHXFk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/michaelangelovalente/Desktop/Java-Spring/Udemy_BTG"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8d3d86a-13b9-4fa2-a163-1011ae0a79e5" name="Changes" comment="" />
+      <created>1660749335580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660749335580</updated>
+      <workItem from="1660749340357" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
