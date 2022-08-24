@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8d3d86a-13b9-4fa2-a163-1011ae0a79e5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/BySuitInValueOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/BySuitInValueOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Card.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Card.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/SortBySuit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/SortBySuit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Suit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/classes/Suit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/A_CardTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/A_CardTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/B_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/B_HandTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/C_ComparatorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/C_ComparatorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/D_HandTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/D_HandTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/Help.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../part10/SortingClasses/target/test-classes/Help.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackTraceExercise/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StackTraceExercise/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StackTraceExercise/Statistics.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StackTraceExercise/Statistics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,14 +20,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/michaelangelovalente/Desktop/Java-Spring/Udemy_BTG"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/michaelangelovalente/Desktop/Java-Spring/Udemy_BTG&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660749335580</updated>
       <workItem from="1660749340357" duration="20000" />
+      <workItem from="1661182612630" duration="825000" />
     </task>
     <servers />
   </component>
