@@ -75,4 +75,18 @@ public class List<Type>{
         return this.firstFreeIndex;
     }
 
+    public void add(K key, V value){
+        int hashValue = Math.abs(key.hashCode()%values.length);
+        if( values[hashValue] == null ){
+            values[hashValue] = new List<>();
+        }
+        
+        List<Pair<K,V>> valuesAtIndex = values[hashValue];
+        int index = -1;
+        for( int i = 0; i< valuesAtIndex.size(); i++ ){
+            
+        }
+
+    }
+
 }
