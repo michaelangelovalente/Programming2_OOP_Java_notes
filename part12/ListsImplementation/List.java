@@ -75,18 +75,59 @@ public class List<Type>{
         return this.firstFreeIndex;
     }
 
-    public void add(K key, V value){
+    // public void add(K key, V value){
+    //     int hashValue = Math.abs(key.hashCode()%values.length);
+    //     if( values[hashValue] == null ){
+    //         values[hashValue] = new List<>();
+    //     }
+        
+    //     List<Pair<K,V>> valuesAtIndex = values[hashValue];
+    //     int index = -1;
+    //     for( int i = 0; i< valuesAtIndex.size(); i++ ){
+    //         if(valuesAtIndex.value(i).getKey().equals(key)){
+    //             index = i;
+    //             break;
+    //         }    
+    //     }
+        
+    //     if(index < 0){
+    //         // no Pair<key,value) at that index of the array --> add a new Element to the arrayList
+    //         valuesAtIndex.add(new Pair<>(key, value));
+    //         this.firstFreeIndex++;
+    //     }else{
+    //         valuesAtIndex.value(index).setValue(value);
+    //     }
+    // }
+
+    private List<Pair<K,V>> getListBasedOnKey(K key){
         int hashValue = Math.abs(key.hashCode()%values.length);
-        if( values[hashValue] == null ){
+        if( values[hashValue] == null){
             values[hashValue] = new List<>();
         }
-        
-        List<Pair<K,V>> valuesAtIndex = values[hashValue];
-        int index = -1;
-        for( int i = 0; i< valuesAtIndex.size(); i++ ){
-            
+
+        return values[hashValue];
+    }
+
+
+    private int getIndexOfKey(List<Pair<K,V>> myList, K key){
+        for( int i = 0; i < myList.size(); i++){
+            if( myList.get(i).getKey().equals(key)){
+                return i;
+            }
         }
 
+        return -1;
+    }
+
+    public void add(K key, V value){
+        List<Pair<K,V>> valuesAtIndex = this.getListBasedOnKey(key);
+        int index = this.getIndexOfKey(list, key);
+        if( index < 0 ){
+            valuesAtIndex.add( new Pair<>(key, value));
+            this.firstFreeIndex++;
+        }else{
+           valuesAtIndex.value(index).setValue(value);
+        }
     }
 
 }
